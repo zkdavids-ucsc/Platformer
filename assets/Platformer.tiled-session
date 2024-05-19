@@ -1,0 +1,111 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/johndavidson/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap04.json": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 479.5,
+                "y": 160
+            }
+        },
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap04.json#colored_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap07-anim.tmx": {
+            "scale": 1.42796875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 159.31721194879088,
+                "y": 161.06795054163473
+            }
+        },
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap07-anim.tmx#colored_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/johndavidson/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 259.5,
+                "y": 248
+            }
+        },
+        "/Users/johndavidson/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/johndavidson/Desktop/CMPM120/Platformer/ScribblePlatformer.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1918,
+                "y": 480
+            }
+        },
+        "/Users/johndavidson/Desktop/CMPM120/Platformer/ScribblePlatformer.tmx#kenney_scribble_platformer": {
+            "scaleInDock": 1
+        },
+        "platformer_level.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 479.5,
+                "y": 154
+            }
+        },
+        "platformer_level.tmx#pixel_line_platformer": {
+            "scaleInDock": 1
+        },
+        "platformer_level.tmx#pixel_platformer": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 300,
+    "last.exportedFilePath": "/Users/johndavidson/Desktop/CMPM120/PlatformImprovement/assets",
+    "last.imagePath": "/Users/johndavidson/Desktop/CMPM120/Game3Platformer",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+        "platformer_level.tmx",
+        "/Users/johndavidson/Desktop/CMPM120/Platformer/ScribblePlatformer.tmx",
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap04.json",
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap07-anim.tmx",
+        "/Users/johndavidson/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "project": "Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap07-anim.tmx",
+        "/Users/johndavidson/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "platformer_level.tmx",
+        "/Users/johndavidson/Desktop/CMPM120/Platformer/ScribblePlatformer.tmx",
+        "/Users/johndavidson/Desktop/CMPM120/Mappy/assets/tilemap04.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
